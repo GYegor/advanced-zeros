@@ -33,4 +33,4 @@ module.exports = function getZerosCount(number, base) {
     return bF;
   }
 return Z[0];
-}
+};
